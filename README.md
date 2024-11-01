@@ -1,3 +1,3 @@
 # My-portfolio
 
-en construcción
+[You can see it deployed at:](https://pers-portfol.netlify.app/#projects) 
